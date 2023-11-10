@@ -47,8 +47,17 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+## Support Removal Process
+![image](https://github.com/NaveenM-IOT0804/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/117974950/82aa2b33-51f0-40f0-a8c9-3dd801b48f65)
+
+## UV Curing of 3D printed part
+![image](https://github.com/NaveenM-IOT0804/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/117974950/5483c509-154e-411e-b19a-1433fe5164f5)
+
+## Heat Treatment of 3D printed part
+![image](https://github.com/NaveenM-IOT0804/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/117974950/13eb60dd-7bb9-4d00-9fbe-9061884533cd)
+
+### Name: NAVEEN M
+### Register Number: 212222110029
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
